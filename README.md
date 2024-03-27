@@ -19,6 +19,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=2FFF1E&duration=4000&lines=Hi+There!+👋;+I'm+Olanrewaju+Williams!;" />
 </h1>
 
+<div align="center">
 A passionate and creative developer dedicated to building innovative and efficient solutions. With expertise in HTML, CSS ,JavaScript, I bring forth a blend of technical knowledge and problem-solving skills to tackle diverse challenges in the tech world.
 
 🔍 I'm currently working on a Ecommerse Website, and I'm always on the lookout for new learning opportunities and collaborations.
@@ -28,6 +29,7 @@ A passionate and creative developer dedicated to building innovative and efficie
 🌱 When I'm not coding, you'll find me exploring new coffee shops, or pondering the mysteries
 of the digital universe (and binge-watching the latest tech documentaries). or sharing knowledge and ideas with fellow developers.
 
+</div>
 <div align="center"> 
   <a href="mailto:pedro.sales.owolabilanre2006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
