@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-![Profile Banner](https://imgur.com/a/z69ms3J)
+![Profile Banner](https://i.imgur.com/QghK1wH.png)
 
 Hi there, I'm _Olanrewaju Williams Owolabi_!
 
