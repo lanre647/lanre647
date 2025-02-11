@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://imgur.com/a/z69ms3J)
 
 Hi there, I'm _Olanrewaju Williams Owolabi_!
 
