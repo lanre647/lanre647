@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a passionate developer from Nigeria.
+I'm a passionate developer ha ha ha..........
 
 ## Fun Facts
 
@@ -90,3 +90,6 @@ I'm a passionate developer from Nigeria.
   <img src="https://github-contributor-stats.vercel.app/api?username=lanre647&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Olanrewaju's Contributions" />
 </p>
 
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+#
