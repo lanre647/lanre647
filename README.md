@@ -1,6 +1,9 @@
 # Welcome to My Profile! 👋
 
-Hi there, I'm _Olanrewaju Williams Owolabi_!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=4000&pause=700&width=480&color=%23A259FF,%23D16EFF&lines=Hey+there%2C+I%27m+Olanrewaju+Williams;Software%2FWeb+Developer;Crafting+sleek+%26+modern+apps;Always+learning%2C+always+coding+%F0%9F%92%BB" alt="Typing SVG"/>
+</a>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/lanre647?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/lanre647?affiliations=OWNER%2CCOLLABORATOR&style=social)
