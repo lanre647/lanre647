@@ -44,7 +44,7 @@ I enjoy learning new technologies, solving problems, and building projects that 
     <img src="https://img.shields.io/static/v1?label=Project&message=developer-portofio&color=brightgreen&style=for-the-badge&logo=github" alt="developer-portofio" />
   </a>
   <a href="https://github.com/lanre647//Full-Stack-E-commerce-Website-Using-React-JS-MERN-Stack-eCommerce-Project-with-Stripe">
-    <img src="https://img.shields.io/static/v1?label=Project&message=Full-Stack-E-commerce-Website-Using-React-JS-MERN-Stack-eCommerce-Project-with-Stripe&color=blue&style=for-the-badge&logo=github" alt="Full-Stack-E-commerce-Website" />
+    <img src="https://img.shields.io/static/v1?label=Project&message=Full-Stack-E-commerce-website&color=blue&style=for-the-badge&logo=github" alt="Full-Stack-E-commerce-Website" />
   </a>
   <a href="https://github.com/lanre647/Omnifood">
     <img src="https://img.shields.io/static/v1?label=Project&message=Omnifood&color=orange&style=for-the-badge&logo=github" alt="Omnifood" />
