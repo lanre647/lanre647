@@ -1,10 +1,6 @@
 # Welcome to My Profile! 👋
 
-![Profile Banner](https://i.imgur.com/QghK1wH.png)
-
 Hi there, I'm _Olanrewaju Williams Owolabi_!
-
----
 
 ![GitHub followers](https://img.shields.io/github/followers/lanre647?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/lanre647?affiliations=OWNER%2CCOLLABORATOR&style=social)
@@ -12,43 +8,30 @@ Hi there, I'm _Olanrewaju Williams Owolabi_!
 ## Table of Contents
 
 - [About Me](#about-me)
+- [Fun Facts](#fun-facts)
 - [Current Projects](#current-projects)
 - [Learning](#learning)
-- [Fun Facts](#fun-facts)
-- [Contact Information](#contact-information)
-- [GitHub Stats](#github-stats)
 - [Projects](#projects)
 - [Skills](#skills)
+- [Contact Information](#contact-information)
+- [GitHub Stats](#github-stats)
+
 
 ## About Me
 
 I'm a passionate frontend developer from Nigeria.
 
+## Fun Facts
+
+- 😎🤷‍♀️Monster-fueled full-stack gym-rat anime protagonist who codes like a demon, lifts like a final-boss, and only deploys for goth baddies💋
+
 ## Current Projects
 
-- 🔭 I’m currently working on my React skills and finding money-making ideas.
+- 🔭 I’m currently working on my bros setup *oja247* finding money-making ideas.
 
 ## Learning
 
-- 🌱 I’m currently learning React and Node.
-
-## Fun Facts
-
-- ⚡ I love sitcoms and cheese balls.
-
-## Contact Information
-
-- 📫 Email: [owolabilanre2006@gmail.com](mailto:owolabilanre2006@gmail.com)
-- 🐦 Twitter: [@willi_olanrewaju](https://twitter.com/willi_olanrewaju)
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanre647&show_icons=true&theme=radical" alt="Olanrewaju's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanre647&layout=compact&theme=radical" alt="Top Langs" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanre647&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=lanre647&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Olanrewaju's Contributions" />
-</p>
+- 🌱 I’m currently learning React, Node and c# .net .netcore @aptech.
 
 ## Projects
 
@@ -85,3 +68,19 @@ I'm a passionate frontend developer from Nigeria.
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+
+
+## Contact Information
+
+- 📫 Email: [owolabilanre2006@gmail.com](mailto:owolabilanre2006@gmail.com)
+- 🐦 Twitter: [@willi_olanrewaju](https://twitter.com/willi_olanrewaju)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lanre647&show_icons=true&theme=radical" alt="Olanrewaju's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanre647&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanre647&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=lanre647&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Olanrewaju's Contributions" />
+</p>
+
