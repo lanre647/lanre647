@@ -7,19 +7,22 @@
 
 ## Table of Contents
 
-- [About Me](#about-me)
+- [About Me-------Contact Information](#about-me-------contact-information)
 - [Fun Facts](#fun-facts)
 - [Current Projects](#current-projects)
 - [Learning](#learning)
 - [Projects](#projects)
 - [Skills](#skills)
-- [Contact Information](#contact-information)
 - [GitHub Stats](#github-stats)
 
 
-## About Me
+## About Me-------Contact Information
 
 I'm a passionate developer ha ha ha..........
+
+[Contact Me]
+- 📫 Email: [owolabilanre2006@gmail.com](mailto:owolabilanre2006@gmail.com)
+- 🐦 Twitter: [@willi_olanrewaju](https://twitter.com/willi_olanrewaju)
 
 ## Fun Facts
 
@@ -75,11 +78,6 @@ I'm a passionate developer ha ha ha..........
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-
-## Contact Information
-
-- 📫 Email: [owolabilanre2006@gmail.com](mailto:owolabilanre2006@gmail.com)
-- 🐦 Twitter: [@willi_olanrewaju](https://twitter.com/willi_olanrewaju)
 
 ## GitHub Stats
 
