@@ -18,7 +18,8 @@
 
 ## About Me-------Contact Information
 
-I'm a passionate developer ha ha ha..........
+I'm a passionate Software/Web Developer who loves crafting sleek and modern apps. 💻  
+I enjoy learning new technologies, solving problems, and building projects that make an impact.  
 
 [Contact Me]
 - 📫 Email: [owolabilanre2006@gmail.com](mailto:owolabilanre2006@gmail.com)
