@@ -5,7 +5,7 @@
 </a>
 
 <div align="center">
- <img alt="GIF" align="center" src="https://media1.tenor.com/m/XS2h4QW3JqsAAAAd/anime-chase.gif">
+ <img alt="GIF" align="center" src=anime-chase.gif>
 </div>
 
 <div align="center">
