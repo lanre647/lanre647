@@ -10,9 +10,9 @@
 
 <div align="center">
 
-**🖥️ Full-Stack Adventurer | ⚡ Code Ninja | 🎮 Anime Buff**
+**✨ Exploring the digital realm, one commit at a time.**
 
-> "Writing code like I train in the dojo — fast, precise, and with occasional caffeine-fueled magic."  
+> "💡 Turning ideas into apps, bugs into lessons, and coffee into code."  
 
 </div>
 
