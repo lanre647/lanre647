@@ -6,30 +6,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=Full-Stack+Sorcerer+%7C+Code+Alchemist;Turning+Coffee+%E2%98%95+into+Clean+Code;React+Bender+%7C+Node+Whisperer;Debugging+Like+an+Anime+Protagonist;Building+Cool+Sh*t%2C+One+Commit+at+a+Time" alt="Typing SVG"/>
 </a>
 
-```ascii
-                    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-                  ▄▀░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▄
-                ▄▀░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▄
-              ▄▀░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▀▄
-            ▄▀░░░░░░░░░░░░░   FULL-STACK   ░░░░░░░░░░░░▀▄
-           █░░░░░░░░░░░░░░░   DEVELOPER    ░░░░░░░░░░░░░░█
-          █░░░░░░░░░░░░░░░░                ░░░░░░░░░░░░░░░█
-         █░░░░░░░░░░░░░░░░░ [█████████] 99%░░░░░░░░░░░░░░░█
-         █░░░░░░░░░░░░░░░░░                ░░░░░░░░░░░░░░░█
-         █░░░░░░░░░░░░░  ⚡ Powered by Caffeine ⚡  ░░░░░░░█
-          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
-           ▀▄░░░░░░░░░░  🚀 Deploying Dreams  🚀 ░░░░░░▄▀
-             ▀▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▀
-               ▀▄░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░▄▀
-                 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+```
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║                   ⚡ FULL-STACK DEVELOPER ⚡                    ║
+║                                                                ║
+║              Powered by Coffee ☕ & Anime 📺                   ║
+║              Deploying Dreams Daily 🚀                         ║
+║              Loading Awesomeness... [████████████] 99%        ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 
-        ╔═══════════════════════════════════════════════════╗
-        ║  "Code is like humor. When you have to explain   ║
-        ║   it, it's bad."  — Cory House                    ║
-        ║                                                   ║
-        ║  > Currently: Deploying dreams & debugging        ║
-        ║    nightmares one commit at a time               ║
-        ╚═══════════════════════════════════════════════════╝
+    "Code is like humor. When you have to explain it, it's bad."
+                        — Cory House
+
+    > Currently: Deploying dreams & debugging nightmares
 ```
 
 [![Profile Views](https://komarev.com/ghpvc/?username=lanre647&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lanre647)
@@ -177,7 +168,7 @@ const olanrewaju = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:owolabilanre2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olanrewaju-williams/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/willi_olanrewaju)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/willi_olanrewaju)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/lanre647/developer-portfolio)
 
 ### 💬 Open to:
