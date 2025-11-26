@@ -37,7 +37,7 @@
 
 ## 📂 Projects
 <p align="center">
-  <a href="https://github.com/lanre647/developer-portofio">
+  <a href="https://github.com/lanre647/developer-portfolio">
     <img src="https://img.icons8.com/color/120/developer.png" alt="developer-portofio" />
   </a>
   <a href="https://github.com/lanre647//Full-Stack-E-commerce-Website-Using-React-JS-MERN-Stack-eCommerce-Project-with-Stripe">
