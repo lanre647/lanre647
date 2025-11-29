@@ -126,7 +126,8 @@ const olanrewaju = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lanre647&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
+<img src="https://github-readme-stats-c7ilnleln-olanrewaju-williams-projects.vercel.app/api?username=lanre647&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanre647&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanre647&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak"/>
