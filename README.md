@@ -125,7 +125,8 @@ const olanrewaju = {
 ## 📊 Battle Statistics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats-c7ilnleln-olanrewaju-williams-projects.vercel.app/api?username=lanre647&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=lanre647&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanre647&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8"/>
 
