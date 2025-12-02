@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Olanrewaju Williams  
 ### Full-Stack Developer | React & Node.js | .NET | MERN | Problem Solver
+[![Profile Views](https://komarev.com/ghpvc/?username=lanre647&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lanre647)
 
 I’m a full-stack engineer based in Lagos, NG — passionate about building clean, scalable, user-focused applications.  
 I specialize in modern JavaScript ecosystems, cloud-ready backends, and high-quality UI experiences.
@@ -54,8 +55,10 @@ Responsive landing page for a fictional food delivery brand.
 
 ## 📊 GitHub Insights
 
-![Stats](https://github-readme-stats.vercel.app/api?username=lanre647&show_icons=true&theme=default&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lanre647&layout=compact&hide_border=true)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanre647&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lanre647&layout=compact&theme=radical&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lanre647&theme=radical&hide_border=true)
+
 
 ---
 
@@ -77,10 +80,32 @@ Responsive landing page for a fictional food delivery brand.
 
 ```javascript
 const olanrewaju = {
-  role: "Full-Stack Architect",
-  codingStyle: "Clean. Scalable. A pinch of chaos.",
-  toolkit: ["React", "Node", "C#", "MongoDB", "Tailwind"],
-  currentQuest: "Building Oja247 & leveling up daily",
-  funFact: "Turning caffeine into commits since [REDACTED]",
-  hobbies: ["Gym 🏋️", "Anime 📺", "Debugging 🐛"],
+  role: "Full-Stack Sorcerer",
+  codingStyle: "Poetic commits, detective-level debugging",
+  toolkit: ["React ⚛️", "Node.js 🟢", "C# 🎯", "MongoDB 🗄️", "Tailwind 💨"],
+  currentQuest: "Building Oja247 & slaying legendary bugs",
+  caffeineLevel: "☕ 9000+ commits powered",
+  hobbies: ["Gym 🏋️", "Anime 📺", "Gaming 🎮", "Debugging 🐛"],
+  funFact: "Deploy only for cool projects... and occasionally goth baddies 🖤🔥"
 };
+```
+
+---
+## 🐱‍🐉 Friendly Warning
+
+```javascript
+if (youCopiedThisReadme && !youFollowedMe) {
+   throw new Error("Deployment failed: Missing dependency 'follow-lanre647'");
+};
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+
+## 🚀 Final Message
+
+Thanks for scrolling! Whether you're a recruiter, dev, or anime-lover —
+I’m always open to collaborating, building something fun, and deploying dreams.
+
+**Made with ❤️, ☕, and way too many Stack Overflow tabs**
+
+![](https://hit.yhype.me/github/profile?user_id=lanre647)
