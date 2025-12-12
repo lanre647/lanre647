@@ -30,7 +30,7 @@ Node.js • Express.js • C# • .NET Core • Java • C/C++
 MongoDB • MySQL
 
 ### **Tools & DevOps**
-Git • GitHub • VS Code • Figma
+Git • GitHub • VS Code • Figma • Linux
 
 ---
 
