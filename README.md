@@ -80,14 +80,34 @@ Responsive landing page for a fictional food delivery brand.
 
 ```javascript
 const olanrewaju = {
-  role: "Full-Stack Sorcerer",
-  codingStyle: "Poetic commits, detective-level debugging",
-  toolkit: ["React ⚛️", "Node.js 🟢", "C# 🎯", "MongoDB 🗄️", "Tailwind 💨"],
-  currentQuest: "Building Oja247 & slaying legendary bugs",
+  role: "Full-Stack Sorcerer 🧙‍♂️",
+  codingStyle: "Poetic commits, detective-level debugging 🔍",
+  toolkit: [
+    "React ⚛️", 
+    "Node.js 🟢", 
+    "C# 🎯", 
+    "MongoDB 🗄️", 
+    "Tailwind 💨"
+  ],
+  currentQuest: "Building Oja247 & slaying legendary bugs 🐉",
   caffeineLevel: "☕ 9000+ commits powered",
-  hobbies: ["Gym 🏋️", "Anime 📺", "Gaming 🎮", "Debugging 🐛"],
-  funFact: "Deploy only for cool projects... and occasionally goth baddies 🖤🔥"
+  hobbies: [
+    "Gym 🏋️", 
+    "Anime 📺", 
+    "Gaming 🎮", 
+    "Debugging 🐛"
+  ],
+  funFact: "Deploy only for cool projects... and occasionally goth baddies 🖤🔥",
+  
+  // Method to check vibe compatibility
+  checkVibe: function(visitor) {
+    return visitor.loves.includes("clean code") && 
+           visitor.caffeineLevel > 3000;
+  }
 };
+
+// Auto-run on profile visit
+console.log("Welcome to the matrix... I mean, my profile 👾");
 ```
 
 ---
@@ -95,8 +115,11 @@ const olanrewaju = {
 
 ```javascript
 if (youCopiedThisReadme && !youFollowedMe) {
-   throw new Error("Deployment failed: Missing dependency 'follow-lanre647'");
-};
+   throw new Error("Deployment failed: Missing dependency 'follow-lanre647' ⚠️");
+}
+
+// Easter egg for those who read the code
+const secret = "If you're reading this, you're one of the real ones 🤝";
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
