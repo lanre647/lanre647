@@ -89,7 +89,7 @@ const olanrewaju = {
     "MongoDB 🗄️", 
     "Tailwind 💨"
   ],
-  currentQuest: "Building Oja247 & slaying legendary bugs 🐉",
+  currentQuest: "Building Oja247, Latobags & slaying legendary bugs 🐉",
   caffeineLevel: "☕ 9000+ commits powered",
   hobbies: [
     "Gym 🏋️", 
