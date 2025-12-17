@@ -55,7 +55,7 @@ Responsive landing page for a fictional food delivery brand.
 
 ## 📊 GitHub Insights
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanre647&show_icons=true&theme=radical&count_private=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lanre647&show_icons=true&theme=radical&count_private=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lanre647&layout=compact&theme=radical&hide_border=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=lanre647&theme=radical&hide_border=true)
 
