@@ -9,13 +9,14 @@ I specialize in modern JavaScript ecosystems, cloud-ready backends, and high-qua
 
 ## 🚀 About Me
 
-- 🐧 I finally moved to Linux, and i love it, i'm endeavouros (it arch btw).
-- 🔧 Full-Stack Developer experienced in **Python,C,C#, and MERN**
-- 🎓 Currently an **ADSE student at Aptech**, building a strong foundation in software engineering
-- 🛠️ Focused on building **reliable, performant, and maintainable software**
-- 🌱 Improving in **microservices architecture & system design**
-- 🤝 Open to **full-time roles, collaborations, and open-source contributions**
-- 🧠 Philosophy: “Think clearly. Build simply.”
+* 🔧 Full-Stack Developer skilled in **Python, C, C#, and the MERN stack**, with a focus on delivering scalable, production-ready applications
+* 🎓 ADSE student at Aptech, building a strong foundation in **software engineering principles and best practices**
+* 🛠️ Experienced in developing **reliable, high-performance, and maintainable systems** across the stack
+* 🌱 Continuously expanding expertise in **microservices architecture and system design**
+* 🐧 Comfortable working in Linux environments (EndeavourOS/Arch-based systems)
+* 🤝 Actively seeking **full-time roles, internships, and collaborative opportunities**
+* 🧠 Approach: *Clear thinking, simple design, and practical solutions to real-world problems*
+
 
 ---
 
@@ -76,33 +77,46 @@ Responsive landing page for a fictional food delivery brand.
 
 ## ⚡ Developer Mode: ON
 
-```javascript
+```javascript id="p93kx"
 const olanrewaju = {
   role: "Full-Stack Sorcerer 🧙‍♂️",
-  codingStyle: "Poetic commits, detective-level debugging 🔍",
+  codingStyle: "Clean commits, chaotic debugging, eventual enlightenment 🔍",
+
   toolkit: [
-    "Linux 🐧",
-    "python 🐍",
-    "React ⚛️", 
-    "Node.js 🟢", 
-    "C# 🎯", 
-    "MongoDB 🗄️", 
+    "Linux 🐧 (yes… Arch. I use it btw.)",
+    "Python 🐍",
+    "React ⚛️",
+    "Node.js 🟢",
+    "C# 🎯",
+    "MongoDB 🗄️"
   ],
-  currentQuest: "Learning linux sysadmin, Building Oja247, Latobags & slaying legendary bugs 🐉",
-  caffeineLevel: "☕ 9000+ commits powered",
+
+  currentQuest: "Mastering Linux sysadmin, building Oja247 & Latobags, and surviving production bugs 🐉",
+
+  caffeineLevel: "☕ Functionally dependent",
+
   hobbies: [
-    "Gym 🏋️", 
-    "Anime 📺", 
-    "Gaming 🎮", 
-    "Debugging 🐛"
-    "ranting about Linux 🐧"
+    "Gym 🏋️",
+    "Anime 📺",
+    "Gaming 🎮",
+    "Fixing bugs I definitely didn’t cause 🐛",
+    "Explaining Linux to people who didn’t ask 🐧"
   ],
-  funFact: "i have tried installing arch with nothing but the wiki and three sleepless nights... 🖤🔥",
-  
+
+  legendaryBugStory: `
+    Spent 6 hours debugging an API.
+    Checked auth, database, network, sanity…
+    Turned out: I forgot to start the server.
+
+    I now believe debugging is 70% skill, 30% betrayal.
+  `,
+
+  funFact: "Installed Arch using only the wiki, stubbornness, and 3 sleepless nights. I came out stronger. Slightly unstable, but stronger.",
+
   // Method to check vibe compatibility
   checkVibe: function(visitor) {
-    return visitor.loves.includes("clean code") && 
-           visitor.caffeineLevel > 3000;
+    return visitor.loves.includes("clean code") &&
+           visitor.hasSaid("it works on my machine") === false;
   }
 };
 
