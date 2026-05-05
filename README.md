@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Olanrewaju Williams  
-### Full-Stack Developer | React & Node.js | .NET | MERN | Problem Solver
+### Full-Stack Developer | MERN | Linux Enthusiast | Problem Solver
 [![Profile Views](https://komarev.com/ghpvc/?username=lanre647&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/lanre647)
 
 I’m a full-stack engineer based in Lagos, NG — passionate about building clean, scalable, user-focused applications.  
@@ -9,7 +9,8 @@ I specialize in modern JavaScript ecosystems, cloud-ready backends, and high-qua
 
 ## 🚀 About Me
 
-- 🔧 Full-Stack Developer experienced in **React, Node.js, C#, .NET Core, and MERN**
+- 🐧 I finally moved to Linux, and i love it, i'm endeavouros (it arch btw).
+- 🔧 Full-Stack Developer experienced in **Python,C,C#, and MERN**
 - 🎓 Currently an **ADSE student at Aptech**, building a strong foundation in software engineering
 - 🛠️ Focused on building **reliable, performant, and maintainable software**
 - 🌱 Improving in **microservices architecture & system design**
@@ -24,13 +25,13 @@ I specialize in modern JavaScript ecosystems, cloud-ready backends, and high-qua
 React • TypeScript • JavaScript • TailwindCSS • Sass • HTML5 • CSS3
 
 ### **Backend**
-Node.js • Express.js • C# • .NET Core • Java • C/C++
+Node.js • Express.js • C# • .NET Core • Java • C/C++ • python
 
 ### **Databases**
-MongoDB • MySQL
+MongoDB • MySQL • PostreSQL
 
 ### **Tools & DevOps**
-Git • GitHub • VS Code • Figma • Linux
+Git • GitHub • Vim • Nvim • Linux • Docker • kubernetes • Bash
 
 ---
 
@@ -80,21 +81,23 @@ const olanrewaju = {
   role: "Full-Stack Sorcerer 🧙‍♂️",
   codingStyle: "Poetic commits, detective-level debugging 🔍",
   toolkit: [
+    "Linux 🐧",
+    "python 🐍",
     "React ⚛️", 
     "Node.js 🟢", 
     "C# 🎯", 
     "MongoDB 🗄️", 
-    "Tailwind 💨"
   ],
-  currentQuest: "Building Oja247, Latobags & slaying legendary bugs 🐉",
+  currentQuest: "Learning linux sysadmin, Building Oja247, Latobags & slaying legendary bugs 🐉",
   caffeineLevel: "☕ 9000+ commits powered",
   hobbies: [
     "Gym 🏋️", 
     "Anime 📺", 
     "Gaming 🎮", 
     "Debugging 🐛"
+    "ranting about Linux 🐧"
   ],
-  funFact: "Deploy only for cool projects... and occasionally goth baddies 🖤🔥",
+  funFact: "i have tried installing arch with nothing but the wiki and three sleepless nights... 🖤🔥",
   
   // Method to check vibe compatibility
   checkVibe: function(visitor) {
