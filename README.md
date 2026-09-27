@@ -27,9 +27,9 @@ I’m a full-stack engineer based in Lagos, NG — passionate about building cle
 
 ## 📌 Featured Projects
 
-### 🔹 [OJA247 E-Commerce Platform](https://github.com/lanre647/Full-Stack-E-commerce-Website-Using-React-JS-MERN-Stack-eCommerce-Project-with-Stripe)
+### 🔹 [OJA247](https://github.com/MesoTheArtist/OJA247)
 **Tech:** MERN Stack, Stripe API  
-Full-stack e-commerce application with dynamic auth, product management, and payments.
+Oja247 is a multi-tenant e-commerce platform that helps small business owners in Nigeria create and manage their own online shops, always open 24/7
 
 ### 🔹 [Developer Portfolio](https://github.com/lanre647/developer-portfolio)
 **Tech:** React, TailwindCSS  
